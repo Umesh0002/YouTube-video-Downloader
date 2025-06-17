@@ -55,5 +55,11 @@ yt = YouTube(yt_url): Creates a Pytube YouTube object from the provided URL.
 
 stream = yt.streams.get_audio_only(): Gets the audio-only stream for the video.
 
+# output will like this
+
+
+![Screenshot (71)](https://github.com/user-attachments/assets/1d815e7f-47c7-4b19-8458-528571780063)
+
+
 
 
